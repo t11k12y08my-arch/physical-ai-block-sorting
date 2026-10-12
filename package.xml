@@ -1,1 +1,18 @@
+<?xml version="1.0"?>
+<package format="3">
+  <name>physical_ai_block_sorting</name>
+  <version>0.0.1</version>
+  <description>Physical AI block sorting project</description>
+
+  <maintainer email="example@example.com">m</maintainer>
+  <license>Apache License 2.0</license>
+
+  <buildtool_depend>ament_cmake</buildtool_depend>
+
+  <depend>rclpy</depend>
+  <depend>std_msgs</depend>
+
+  <exec_depend>gazebo</exec_depend>
+
+</package>
 
