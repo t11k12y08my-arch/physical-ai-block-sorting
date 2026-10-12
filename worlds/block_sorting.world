@@ -1,1 +1,22 @@
+<?xml version="1.0" ?>
+<sdf version="1.6">
+  <world name="block_sorting_world">
+
+    <!-- 地面 -->
+    <include>
+      <uri>model://ground_plane</uri>
+    </include>
+
+    <!-- 赤ブロック -->
+    <include>
+      <uri>model://block_red</uri>
+    </include>
+
+    <!-- 青ブロック -->
+    <include>
+      <uri>model://block_blue</uri>
+    </include>
+
+  </world>
+</sdf>
 
